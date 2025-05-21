@@ -1,0 +1,5 @@
+{"P001": {"name": "Dua", "city": "Dadu", "age": 28, "gender": "female", "height": 1.65, "weight": 90.0, "bmi": 33.06, "verdict": "Obese"}, 
+"P002": {"name": "Ahmed", "city": "Hyderabad", "age": 35, "gender": "male", "height": 1.75, "weight": 85, "bmi": 27.76, "verdict": "Overweight"}, 
+"P003": {"name": "Mahira", "city": "Karachi", "age": 22, "gender": "female", "height": 1.6, "weight": 45, "bmi": 17.58, "verdict": "Underweight"}, 
+"P004": {"name": "shahid", "city": "Khairpur", "age": 40, "gender": "male", "height": 1.8, "weight": 95, "bmi": 29.32, "verdict": "Overweight"}, 
+"P005": {"name": "Laiba", "city": "Sukkur", "age": 30, "gender": "female", "height": 1.55, "weight": 75, "bmi": 31.22, "verdict": "Obese"}}
